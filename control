@@ -1,0 +1,9 @@
+Package: backend-api
+Version: 1.0.0
+Section: base
+Priority: optional
+Architecture: amd64
+Depends: postgresql-15
+Maintainer: DevOps Team <devops@company.com>
+Description: Backend API service for test application
+ Backend API that serves user data from PostgreSQL database
