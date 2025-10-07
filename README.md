@@ -4,8 +4,8 @@
 
 | ВМ | Роль | OC | IP |
 |:---|:---|:---|:---|
-| vm-backend-postgres | PostgreSQL 16 Backend (GO) | Ubuntu 24.04 | 172.16.3.9/24 |
-| vm-redis-proxy | Redis 7 Proxy (Flask) | CentOS 7 | 172.16.3.10/24 |
+| vm-backend-postgres | PostgreSQL 16 + Backend (GO) | Ubuntu 24.04 | 172.16.3.9/24 |
+| vm-redis-proxy | Redis 7 + Proxy (Flask) | CentOS 7 | 172.16.3.10/24 |
 
 ## Подтверждение работоспособности
 
